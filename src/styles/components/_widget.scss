@@ -1,0 +1,20 @@
+.widget {
+    background: $teal-light;
+    margin-bottom: $xl-size;
+}
+
+.widget-header {
+    background: $teal-dark;
+    color: $off-white;
+    display: flex;
+    justify-content: space-between;
+    padding: $m-size;
+}
+  
+.widget__message {
+border-bottom: 1px solid lighten($teal-light, 10%);
+color: $off-white;
+margin: 0;
+padding: $l-size;
+text-align: center;
+}

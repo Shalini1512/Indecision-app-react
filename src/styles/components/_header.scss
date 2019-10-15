@@ -1,0 +1,20 @@
+.header {
+    background-color: #00151a;
+    margin-bottom: $m-size;
+    padding: $m-size 0;
+    text-align: center;
+
+    div {
+        h1 {
+            font-size: $l-size;
+            color: #fff;
+            margin: 0;
+        }
+    
+        h2 {
+            font-size: $m-size;
+            color: $off-white;
+            margin: 0;
+        }
+    }
+}
